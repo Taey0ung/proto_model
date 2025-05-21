@@ -1,0 +1,10 @@
+{
+  "macro_f1": 0.8849,
+  "weighted_f1": 0.8849,
+  "classwise_f1": {
+    "sad": 0.8687,
+    "angry": 0.8632,
+    "neutral": 0.9031,
+    "happy": 0.9048
+  }
+}
